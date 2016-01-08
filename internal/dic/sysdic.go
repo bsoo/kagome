@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/ikawaha/kagome/internal/dic/data"
+	"github.com/bsoo/kagome/internal/dic/data"
 )
 
 const (

@@ -14,7 +14,7 @@
 
 package tokenizer
 
-import "github.com/ikawaha/kagome/internal/dic"
+import "github.com/bsoo/kagome/internal/dic"
 
 // Dic represents a dictionary.
 type Dic struct {
